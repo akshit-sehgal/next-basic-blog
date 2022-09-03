@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import Notification from '../ui/notification';
+import Notification from '../ui/Notification';
 import classes from './contact-form.module.css';
 
 const sendContactData = async (newMessage) => {
